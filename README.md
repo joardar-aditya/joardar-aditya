@@ -1,16 +1,18 @@
 ### Hi there 👋
 
 <!--
-**joardar-aditya/joardar-aditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joardar-aditya/joardar-aditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+Just discovered that you can add a readme in Github! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Web and Mobile Development 
+- 🌱 I’m currently learning Cloud and ML
+- 👯 I’m looking to collaborate on Web frontend design
+- 🤔 I’m looking for help with Cloud and ML
+- 💬 Ask me about -: How to create a readme ! 
+
+
+
+
+
